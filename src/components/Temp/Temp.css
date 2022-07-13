@@ -1,0 +1,11 @@
+.Temp {
+    margin-top: 3px;
+}
+
+.Temp .size-5 {
+    font-size: 5rem;
+}
+
+.Temp .size-2 {
+    font-size: 2rem;
+}
